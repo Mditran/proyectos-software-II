@@ -1,0 +1,8 @@
+com\unicauca\api\server\JakartaRestConfiguration.class
+co\unicauca\travelagency\access\CustomerRepositoryImplArrays.class
+com\unicauca\api\server\AppConfiguration.class
+co\unicauca\travelagency\access\ICustomerRepository.class
+com\unicauca\api\server\resources\JakartaEE8Resource.class
+co\unicauca\travelagency\domain\entity\Customer.class
+co\unicauca\travelagency\domain\services\CustomerService.class
+co\unicauca\travelagency\presentation\rest\CustomerController.class
